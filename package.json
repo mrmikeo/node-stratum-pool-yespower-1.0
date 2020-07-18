@@ -28,7 +28,7 @@
         "url": "https://github.com/mrmikeo/node-stratum-pool-yespower-1.0.git"
     },
     "dependencies": {
-        "multi-hashing": "https://github.com/mrmikeo/node-multi-hashing-yespower-1.0.git",
+        "multi-hashing": "git://github.com/mrmikeo/node-multi-hashing-yespower-1.0.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "*"
