@@ -12,9 +12,9 @@
         "litecoin",
         "scrypt"
     ],
-    "homepage": "https://github.com/cryptozeny/node-stratum-pool-yespower-1.0",
+    "homepage": "https://github.com/mrmikeo/node-stratum-pool-yespower-1.0",
     "bugs": {
-        "url": "https://github.com/cryptozeny/node-stratum-pool-yespower-1.0/issues"
+        "url": "https://github.com/mrmikeo/node-stratum-pool-yespower-1.0/issues"
     },
     "license": "GPL-2.0",
     "author": "Matthew Little",
@@ -25,10 +25,10 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/cryptozeny/node-stratum-pool-yespower-1.0.git"
+        "url": "https://github.com/mrmikeo/node-stratum-pool-yespower-1.0.git"
     },
     "dependencies": {
-        "multi-hashing": "https://github.com/cryptozeny/node-multi-hashing-yespower.git",
+        "multi-hashing": "https://github.com/mrmikeo/node-multi-hashing-yespower-1.0.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "*"
